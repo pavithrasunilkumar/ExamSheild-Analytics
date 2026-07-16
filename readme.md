@@ -25,9 +25,9 @@
 
 **ExamShield Analytics** is an end-to-end data analytics platform that helps examination authorities move from **reactive investigation** (acting only after complaints or media reports) to **proactive, evidence-based risk monitoring** of examination centers, candidates, and operations.
 
-It combines **SQL analytics, statistical hypothesis testing, machine learning, explainable AI, and enterprise-style master data governance** into a single decision-support system — culminating in a composite **Integrity Risk Index** and executive/audit dashboards built in Power BI.
+It combines **SQL analytics, statistical hypothesis testing, machine learning, explainable AI, and enterprise-style master data governance** into a single decision-support system , culminating in a composite **Integrity Risk Index** and executive/audit dashboards built in Power BI.
 
-> **Important framing:** This system does **not** accuse individuals of misconduct. It is a **triage tool** — the same way fraud-detection systems flag transactions for review rather than declaring guilt. It tells auditors *where to look first*, using transparent, explainable scoring.
+> **Important framing:** This system does **not** accuse individuals of misconduct. It is a **triage tool**  the same way fraud-detection systems flag transactions for review rather than declaring guilt. It tells auditors *where to look first*, using transparent, explainable scoring.
 
 ---
 
@@ -36,8 +36,8 @@ It combines **SQL analytics, statistical hypothesis testing, machine learning, e
 Large-scale examinations (NEET, JEE, SSC, State PSCs, banking recruitment, university entrance exams) involve **millions of candidates** and **thousands of centers**. At this scale:
 
 - Manual monitoring cannot catch suspicious score distributions, abnormal attendance, or unusual response behavior.
-- Investigations are typically triggered only **after** a complaint or media report — by which point damage (re-exams, legal challenges, lost public trust) is already done.
-- Re-conducting a large-scale exam costs crores of rupees and months of delay — dramatically more expensive than proactive, targeted audits.
+- Investigations are typically triggered only **after** a complaint or media report , by which point damage (re-exams, legal challenges, lost public trust) is already done.
+- Re-conducting a large-scale exam costs crores of rupees and months of delay ,dramatically more expensive than proactive, targeted audits.
 
 **ExamShield Analytics solves this by continuously screening every center statistically and via ML, so authorities can prioritize the ~2–5% that warrant a closer look — instead of guessing or waiting for a complaint.**
 
@@ -45,7 +45,7 @@ Large-scale examinations (NEET, JEE, SSC, State PSCs, banking recruitment, unive
 
 ## 🌍 Why This Matters Right Now
 
-This isn't a hypothetical problem invented for a portfolio project — it's actively unfolding.
+This isn't a hypothetical problem invented for a  project , it's actively unfolding.
 
 - **NEET-UG 2026 (India):** The national medical entrance exam, taken by over 2.2 million aspirants on May 3, 2026, was cancelled just nine days later after investigators found a leaked "guess paper" overlapped with the actual question paper. A multi-state investigation (Rajasthan, Maharashtra, and beyond) led to dozens of arrests, a CBI takeover of the case, Supreme Court petitions, and nationwide protests — with tragic real-world consequences reported in the aftermath, including student suicides linked to the exam's cancellation. The Education Ministry has since announced plans to move NEET to a computer-based format from 2027, citing a breakdown in its "command chain."
 - **NEET-UG 2024 (India):** The same exam drew scrutiny after more than 80 candidates scored a perfect 720/720 — a number educators called statistically implausible, since only seven students had ever achieved a perfect score in the exam's history before that year. Investigations led to arrests and cancelled results, but the exam itself wasn't scrapped, and similar concerns resurfaced two years later in 2026.
