@@ -27,7 +27,7 @@
 
 It combines **SQL analytics, statistical hypothesis testing, machine learning, explainable AI, and enterprise-style master data governance** into a single decision-support system — culminating in a composite **Integrity Risk Index** and executive/audit dashboards built in Power BI.
 
-> ⚠️ **Important framing:** This system does **not** accuse individuals of misconduct. It is a **triage tool** — the same way fraud-detection systems flag transactions for review rather than declaring guilt. It tells auditors *where to look first*, using transparent, explainable scoring.
+> **Important framing:** This system does **not** accuse individuals of misconduct. It is a **triage tool** — the same way fraud-detection systems flag transactions for review rather than declaring guilt. It tells auditors *where to look first*, using transparent, explainable scoring.
 
 ---
 
@@ -102,16 +102,16 @@ Asset Master, Complaints    ──┐    Attendance, Sessions,
 
 ## ✨ Key Features
 
-- 🔍 **Multi-layer anomaly detection** — Isolation Forest (global outliers), Local Outlier Factor (peer-relative outliers), DBSCAN (coordinated candidate clusters)
-- 📊 **Advanced SQL analytics** — center/state ranking via window functions, multi-step risk CTEs, reusable views, stored procedures for monthly reports
-- 📈 **Rigorous statistics** — Z-score & IQR outlier detection, Chi-square independence tests, ANOVA, confidence intervals (so small centers aren't unfairly flagged from sample-size noise)
-- 🤖 **Composite Integrity Risk Index** — documented, weighted, auditable scoring formula (score anomaly, complaint frequency, attendance anomaly, capacity, infrastructure, historical integrity)
-- 🧠 **Explainable AI** — every flagged center comes with a SHAP-based "top 3 contributing factors" explanation
-- ⚖️ **Fairness audit** — explicit statistical check that risk scores aren't proxying for state, category, or school type
-- 🏢 **Enterprise-style master data modeling** — Center/Invigilator/Asset data structured the way a real SAP-based government IT estate would store it
-- 📉 **Forecasting** — Prophet/ARIMA models for future complaint load, supporting staffing and audit-calendar planning
-- 🗂️ **Center segmentation** — K-Means/Hierarchical clustering into interpretable operational profiles
-- 📄 **Auto-generated audit report** — ranked list of high-priority centers with reasons and recommended actions
+-  **Multi-layer anomaly detection** — Isolation Forest (global outliers), Local Outlier Factor (peer-relative outliers), DBSCAN (coordinated candidate clusters)
+-  **Advanced SQL analytics** — center/state ranking via window functions, multi-step risk CTEs, reusable views, stored procedures for monthly reports
+-  **Rigorous statistics** — Z-score & IQR outlier detection, Chi-square independence tests, ANOVA, confidence intervals (so small centers aren't unfairly flagged from sample-size noise)
+-  **Composite Integrity Risk Index** — documented, weighted, auditable scoring formula (score anomaly, complaint frequency, attendance anomaly, capacity, infrastructure, historical integrity)
+-  **Explainable AI** — every flagged center comes with a SHAP-based "top 3 contributing factors" explanation
+-  **Fairness audit** — explicit statistical check that risk scores aren't proxying for state, category, or school type
+-  **Enterprise-style master data modeling** — Center/Invigilator/Asset data structured the way a real SAP-based government IT estate would store it
+-  **Forecasting** — Prophet/ARIMA models for future complaint load, supporting staffing and audit-calendar planning
+-  **Center segmentation** — K-Means/Hierarchical clustering into interpretable operational profiles
+-  **Auto-generated audit report** — ranked list of high-priority centers with reasons and recommended actions
 
 ---
 
@@ -263,16 +263,29 @@ examshield-analytics/
 - [ ] Auto-generated audit report
 
 ---
+##  Author
 
-## 📄 License
+### Pavithra Sunilkumar
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-This is currently a solo portfolio project, but suggestions and issues are welcome — feel free to open an issue or reach out.
+- LinkedIn: https://linkedin.com/in/pavithra-sunilkumar68
+- GitHub: https://github.com/pavithrasunilkumar
+- Portfolio: https://vermillion-panda-a08876.netlify.app/
 
 ---
+
+## Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+---
+
+## License
+
+This project is for **educational and personal use only**.
+Commercial usage is strictly prohibited.
+
+---
+
 
 <div align="center">
 
