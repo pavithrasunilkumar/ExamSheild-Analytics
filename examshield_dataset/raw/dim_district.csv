@@ -1,0 +1,27 @@
+district_id,state_id,district_name
+1,1,Ville Panipat
+2,1,Ville Patna
+3,2,Ville Dibrugarh
+4,2,Ville Muzaffarnagar
+5,3,Ville Mau
+6,3,Ville Kota
+7,4,Ville Hapur
+8,4,Ville Burhanpur
+9,4,Ville Gangtok
+10,5,Ville Ramagundam
+11,5,Ville Bharatpur
+12,6,Ville Shimoga
+13,6,Ville Surendranagar Dudhrej
+14,6,Ville Patna
+15,7,Ville Rajpur Sonarpur
+16,7,Ville Berhampore
+17,7,Ville Ballia
+18,8,Ville Nashik
+19,8,Ville Eluru
+20,8,Ville Jorhat
+21,9,Ville Malda
+22,9,Ville Guna
+23,9,Ville Panvel
+24,10,Ville Surat
+25,10,Ville Tezpur
+26,10,Ville Fatehpur

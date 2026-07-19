@@ -1,0 +1,4 @@
+subject_id,examination_id,subject_code,subject_name
+1,1,PHY,Physics
+2,1,CHEM,Chemistry
+3,1,BIO,Biology

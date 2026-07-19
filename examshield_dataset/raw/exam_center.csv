@@ -1,0 +1,201 @@
+exam_center_id,city_id,center_name,center_code,address,building_type,total_room_count
+1,3,"Sampath, Kakar and Zacharia Examination Centre",EC-2026-00001,"57, Seth Circle, Shahjahanpur-150983",school,5
+2,20,Bobal Ltd Examination Centre,EC-2026-00002,"H.No. 051, Khanna Circle, Shivpuri 829973",school,4
+3,34,Gupta-Chandra Examination Centre,EC-2026-00003,"H.No. 66, Bhagat Chowk, Ghaziabad 513338",government_office,8
+4,5,Goswami-Mallick Examination Centre,EC-2026-00004,"H.No. 781, Zachariah Nagar, Tiruchirappalli-267736",college,3
+5,38,Raghavan Inc Examination Centre,EC-2026-00005,"46, Sur Circle, Jhansi-309805",college,6
+6,19,"Sood, Thakkar and Wali Examination Centre",EC-2026-00006,"12/19, Keer Zila, Jamshedpur-990916",college,5
+7,22,"Virk, Mutti and Lal Examination Centre",EC-2026-00007,"462, Shankar Road, Srinagar-799118",school,3
+8,24,Deo-Palla Examination Centre,EC-2026-00008,"H.No. 42, Mittal Chowk, Begusarai 124118",school,6
+9,20,Kade-Oza Examination Centre,EC-2026-00009,"74/01, Malhotra Marg, Delhi-242786",private_institute,4
+10,34,Borra Ltd Examination Centre,EC-2026-00010,"H.No. 98, Sani Street, Kalyan-Dombivli-505331",school,7
+11,32,"Ray, Dubey and Khalsa Examination Centre",EC-2026-00011,"02, Sabharwal Path, Shimoga-160733",school,6
+12,20,Palla-Mody Examination Centre,EC-2026-00012,"H.No. 365, Boase Road, Etawah-850142",school,3
+13,29,Barad-Chopra Examination Centre,EC-2026-00013,"56/981, Gupta Marg, Varanasi-088356",college,8
+14,3,"Narayanan, Murthy and Dash Examination Centre",EC-2026-00014,"65/648, Handa Street, Nadiad 994680",college,5
+15,31,Sani PLC Examination Centre,EC-2026-00015,"73, Solanki Circle, Guwahati 895134",school,3
+16,28,Din Inc Examination Centre,EC-2026-00016,"91, Sachdeva Chowk, Yamunanagar 632016",college,3
+17,9,"Vasa, Shetty and Bedi Examination Centre",EC-2026-00017,"27, Nadig Circle, Pudukkottai-872774",private_institute,8
+18,29,"Malhotra, Verma and Sundaram Examination Centre",EC-2026-00018,"14, Magar Ganj, Imphal-223623",college,8
+19,22,Narayanan-Shukla Examination Centre,EC-2026-00019,"669, Rai Nagar, Chennai-466889",private_institute,7
+20,5,Kanda-Mahajan Examination Centre,EC-2026-00020,"H.No. 656, Sibal Street, Deoghar-699016",government_office,4
+21,8,Gopal-Bedi Examination Centre,EC-2026-00021,"H.No. 37, Nazareth Path, Alwar 417080",school,8
+22,39,Kapur-Biswas Examination Centre,EC-2026-00022,"309, Khare Street, Bhalswa Jahangir Pur 937452",college,5
+23,19,"Contractor, Gade and Mukhopadhyay Examination Centre",EC-2026-00023,"H.No. 96, Issac Marg, Guntakal 149190",private_institute,5
+24,29,Prabhakar-Biswas Examination Centre,EC-2026-00024,"71, Pathak Marg, Jamnagar 284987",government_office,5
+25,20,"Loyal, Naidu and Korpal Examination Centre",EC-2026-00025,"37, Raghavan, Bhopal 527354",government_office,3
+26,8,"Majumdar, Anne and Varughese Examination Centre",EC-2026-00026,"678, Soni Ganj, Sultan Pur Majra-143634",college,8
+27,7,Solanki-Wali Examination Centre,EC-2026-00027,"85/574, Krishnamurthy Road, Jamshedpur 518233",college,8
+28,18,Vohra-Mandal Examination Centre,EC-2026-00028,"H.No. 35, Mittal Street, Deoghar 400842",government_office,3
+29,2,Chauhan-Arora Examination Centre,EC-2026-00029,"75, Behl Street, Morena 167190",school,7
+30,9,"Modi, Chada and Kothari Examination Centre",EC-2026-00030,"99/38, Seshadri Marg, Bihar Sharif 499091",school,6
+31,1,Kakar LLC Examination Centre,EC-2026-00031,"281, Agate Street, Hospet 403447",private_institute,6
+32,35,Lalla Ltd Examination Centre,EC-2026-00032,"H.No. 832, Dhar Road, Allahabad-499471",school,3
+33,24,Rau-Magar Examination Centre,EC-2026-00033,"H.No. 906, Krishna Path, Mysore-990490",government_office,7
+34,39,Singhal PLC Examination Centre,EC-2026-00034,"967, Singhal Zila, Alappuzha-512567",government_office,7
+35,37,Bansal-Sha Examination Centre,EC-2026-00035,"H.No. 51, Varkey Marg, Hosur 603859",government_office,8
+36,26,"Sathe, Behl and Jani Examination Centre",EC-2026-00036,"H.No. 77, Balakrishnan Zila, Kozhikode 808613",school,7
+37,5,Shenoy Inc Examination Centre,EC-2026-00037,"48/467, Kohli Chowk, Suryapet-639821",private_institute,5
+38,22,Oak-Tripathi Examination Centre,EC-2026-00038,"H.No. 49, Suri, Amroha 558867",school,7
+39,4,Khare PLC Examination Centre,EC-2026-00039,"05, Raj Chowk, Saharanpur-028951",private_institute,8
+40,26,Chaudhry-Vora Examination Centre,EC-2026-00040,"26/217, Nigam Road, Jodhpur-865780",school,7
+41,29,Mani and Sons Examination Centre,EC-2026-00041,"H.No. 172, Balakrishnan Road, Anantapur 455623",government_office,4
+42,34,"Gole, Garde and Gill Examination Centre",EC-2026-00042,"37/92, Shenoy Ganj, Jaunpur 074821",government_office,4
+43,20,Mistry-Samra Examination Centre,EC-2026-00043,"H.No. 36, Chhabra Chowk, Eluru 944064",college,6
+44,35,"Bawa, Taneja and Mangat Examination Centre",EC-2026-00044,"394, Chatterjee Street, Tirupati-095214",school,5
+45,6,Gill-Iyer Examination Centre,EC-2026-00045,"84/24, Merchant Chowk, Raipur-123685",school,3
+46,8,Atwal-Lalla Examination Centre,EC-2026-00046,"H.No. 49, Prabhu Marg, Muzaffarpur 098593",college,3
+47,38,"Shetty, Mittal and Rege Examination Centre",EC-2026-00047,"H.No. 047, Chatterjee Zila, Siwan 675869",government_office,8
+48,4,Sachdeva Ltd Examination Centre,EC-2026-00048,"64/05, Sawhney Ganj, Noida 158506",school,4
+49,1,Sha Inc Examination Centre,EC-2026-00049,"H.No. 532, Jha, Begusarai-933529",college,5
+50,2,De PLC Examination Centre,EC-2026-00050,"H.No. 020, Khanna Path, Pune 402681",school,5
+51,39,Sen-Pathak Examination Centre,EC-2026-00051,"39/08, Shanker Road, Ghaziabad 661771",private_institute,6
+52,35,Divan-Bhatti Examination Centre,EC-2026-00052,"98/56, Wali, Malda-118367",government_office,5
+53,8,Nori-Setty Examination Centre,EC-2026-00053,"15/654, Dua Path, Jabalpur-116152",private_institute,8
+54,37,"Narayan, Das and Roy Examination Centre",EC-2026-00054,"04/945, Tripathi Zila, Bhatpara 315851",government_office,3
+55,35,"Kara, Sanghvi and Bal Examination Centre",EC-2026-00055,"445, Ahuja Path, Asansol 120183",college,3
+56,31,Om-Dugar Examination Centre,EC-2026-00056,"59/910, Dugar Street, Jodhpur 767976",government_office,7
+57,11,"Comar, Pai and Sani Examination Centre",EC-2026-00057,"97/840, Rana Ganj, Chennai 432445",government_office,6
+58,10,Sani-Gill Examination Centre,EC-2026-00058,"38/85, Ranganathan Zila, Junagadh-715969",college,6
+59,25,"Sahni, Mann and Contractor Examination Centre",EC-2026-00059,"H.No. 29, Pathak Chowk, Junagadh-369681",government_office,3
+60,8,Nori-Kant Examination Centre,EC-2026-00060,"H.No. 818, Hari Circle, Etawah 312432",school,4
+61,8,"Borra, Goel and Tak Examination Centre",EC-2026-00061,"99/552, Bir Chowk, Mango-490581",college,6
+62,35,Barad-Bhandari Examination Centre,EC-2026-00062,"H.No. 199, Rajagopalan Circle, Amaravati 793597",college,8
+63,31,Seshadri Inc Examination Centre,EC-2026-00063,"20/37, Viswanathan Chowk, Bharatpur 466590",college,4
+64,20,"Natt, Bhatti and Narayan Examination Centre",EC-2026-00064,"H.No. 49, Nath Street, Ballia 546291",private_institute,7
+65,38,Narasimhan-Datta Examination Centre,EC-2026-00065,"50/54, Kala Street, Shivpuri 322141",private_institute,7
+66,5,"Vyas, Barad and Nayar Examination Centre",EC-2026-00066,"229, Sarma Street, Bulandshahr-379473",government_office,6
+67,17,Singh-Hari Examination Centre,EC-2026-00067,"46, Wable Circle, Nanded 924075",college,8
+68,34,Varty Inc Examination Centre,EC-2026-00068,"478, Sarkar Street, Korba 506068",government_office,6
+69,26,Bumb-Prasad Examination Centre,EC-2026-00069,"H.No. 15, Devan Street, Baranagar-277901",school,7
+70,33,Doctor PLC Examination Centre,EC-2026-00070,"H.No. 34, Batta Zila, Gurgaon-117980",college,3
+71,37,"Khurana, Dhawan and Manne Examination Centre",EC-2026-00071,"53/96, Chada Street, Jabalpur-670654",school,7
+72,18,Bir-Pai Examination Centre,EC-2026-00072,"52/05, Nigam Circle, Madhyamgram-221704",government_office,6
+73,1,Barman LLC Examination Centre,EC-2026-00073,"74/03, Parikh Road, Bathinda 156676",private_institute,3
+74,1,Taneja Ltd Examination Centre,EC-2026-00074,"41/61, Gole Marg, Pondicherry-154479",government_office,8
+75,22,Sawhney LLC Examination Centre,EC-2026-00075,"59/640, Ravi Zila, Anand-029702",school,8
+76,23,"Peri, Pathak and Rajagopal Examination Centre",EC-2026-00076,"75/571, Devan, Sikar 431027",college,6
+77,3,"Dalal, Lala and Lad Examination Centre",EC-2026-00077,"47/31, Borah Street, Malegaon-155188",government_office,7
+78,36,Dugar-Ghosh Examination Centre,EC-2026-00078,"H.No. 323, Bal Chowk, Begusarai 782911",college,3
+79,33,"Srinivas, Vora and Roy Examination Centre",EC-2026-00079,"517, Varughese Chowk, Warangal-268018",private_institute,7
+80,29,Edwin LLC Examination Centre,EC-2026-00080,"41/43, Maharaj Circle, Avadi-829922",private_institute,7
+81,9,"Nazareth, Barman and Balakrishnan Examination Centre",EC-2026-00081,"94/396, Balasubramanian, Bongaigaon 473647",private_institute,5
+82,21,Dugar Group Examination Centre,EC-2026-00082,"35, Dhawan, Imphal-625881",college,4
+83,2,Das-Loke Examination Centre,EC-2026-00083,"104, Sahota Marg, Kozhikode-953278",government_office,3
+84,8,Tank-Bajaj Examination Centre,EC-2026-00084,"73/39, Bava Path, Ichalkaranji 974801",college,3
+85,29,Pau-Rau Examination Centre,EC-2026-00085,"09, Hayer Circle, Begusarai 168784",college,6
+86,20,"Dani, Dave and Chatterjee Examination Centre",EC-2026-00086,"H.No. 85, Issac Street, Orai-002578",government_office,7
+87,23,"Varma, Dey and Narang Examination Centre",EC-2026-00087,"94, Nayar, Phusro 705516",private_institute,8
+88,39,"Bala, Som and Lanka Examination Centre",EC-2026-00088,"72/89, Divan Marg, Patna-307562",private_institute,8
+89,26,Roy PLC Examination Centre,EC-2026-00089,"28/385, Vora Chowk, Satara-785854",government_office,4
+90,18,Koshy LLC Examination Centre,EC-2026-00090,"H.No. 43, Nadig Chowk, Karnal 419866",college,6
+91,33,Mannan Inc Examination Centre,EC-2026-00091,"H.No. 74, Kala Chowk, Siwan 842199",college,3
+92,32,Wali and Sons Examination Centre,EC-2026-00092,"H.No. 657, Devan Zila, Jamalpur-677345",private_institute,7
+93,15,Chakraborty Ltd Examination Centre,EC-2026-00093,"620, Tandon Marg, Ramagundam-049915",school,6
+94,5,"Viswanathan, Tak and Desai Examination Centre",EC-2026-00094,"152, Kurian Chowk, Kanpur-493296",school,5
+95,10,"Narang, Chadha and Rattan Examination Centre",EC-2026-00095,"753, Lal Nagar, Noida 454990",school,6
+96,26,Keer-Bhatia Examination Centre,EC-2026-00096,"H.No. 26, Mukhopadhyay Circle, Sagar 933272",college,6
+97,31,"Prakash, Sagar and Sinha Examination Centre",EC-2026-00097,"91/878, Brahmbhatt Path, Ghaziabad-982258",college,7
+98,32,"Jha, Suresh and Chand Examination Centre",EC-2026-00098,"28, Shan Marg, Karaikudi-406403",private_institute,5
+99,25,Sampath LLC Examination Centre,EC-2026-00099,"H.No. 704, Gole Marg, Bidar 676618",school,5
+100,19,Dani-Gokhale Examination Centre,EC-2026-00100,"30/047, Samra Circle, Berhampur-752431",private_institute,3
+101,28,"Saini, Babu and Khosla Examination Centre",EC-2026-00101,"H.No. 907, Bava, Varanasi-738302",private_institute,7
+102,21,Kaur-Nagar Examination Centre,EC-2026-00102,"H.No. 28, Sachdev Ganj, Panipat 892687",private_institute,4
+103,3,Raj-Vohra Examination Centre,EC-2026-00103,"24, Gour Marg, New Delhi 427086",government_office,6
+104,33,"Wagle, Desai and Rama Examination Centre",EC-2026-00104,"517, Chanda Path, Faridabad-699013",school,5
+105,35,"Kalla, Srinivas and Joshi Examination Centre",EC-2026-00105,"H.No. 331, Kibe Chowk, Sikar 854678",school,8
+106,10,Lal-Parsa Examination Centre,EC-2026-00106,"H.No. 753, Munshi Path, Ranchi-204899",government_office,3
+107,31,Dua-Hayre Examination Centre,EC-2026-00107,"93, Nazareth Chowk, Unnao 725228",government_office,8
+108,39,"Bhargava, Viswanathan and Bandi Examination Centre",EC-2026-00108,"H.No. 623, Dora Zila, Bellary 509977",school,7
+109,18,"Sabharwal, Arora and Badal Examination Centre",EC-2026-00109,"H.No. 862, Char Zila, New Delhi 984546",government_office,8
+110,25,Sharaf-Kohli Examination Centre,EC-2026-00110,"10/166, Soni Marg, Bangalore-176591",private_institute,5
+111,1,Karpe and Sons Examination Centre,EC-2026-00111,"H.No. 148, Bali, Satna-392614",college,4
+112,10,Ramachandran Ltd Examination Centre,EC-2026-00112,"21/850, Sarkar Zila, Aurangabad 999650",private_institute,6
+113,27,Swaminathan-Kari Examination Centre,EC-2026-00113,"29, Chada Marg, Shahjahanpur 142626",school,5
+114,18,Chand Inc Examination Centre,EC-2026-00114,"H.No. 41, Chahal Street, Chinsurah 888610",government_office,4
+115,21,"Chander, Nair and Rajan Examination Centre",EC-2026-00115,"61, Kibe Circle, Nadiad 244472",college,3
+116,39,Majumdar-Sama Examination Centre,EC-2026-00116,"H.No. 543, Hayre Chowk, Aligarh 406596",school,5
+117,19,Sarraf-Natt Examination Centre,EC-2026-00117,"H.No. 59, Srinivas Ganj, Belgaum-547935",government_office,7
+118,20,Patla-Comar Examination Centre,EC-2026-00118,"80/737, Biswas Road, Panchkula-434266",college,8
+119,2,"Srinivas, Rattan and Warrior Examination Centre",EC-2026-00119,"H.No. 89, Chopra Zila, Raichur-909656",college,5
+120,27,Kuruvilla and Sons Examination Centre,EC-2026-00120,"H.No. 67, Tella, Hapur-714611",government_office,8
+121,18,"Dhar, Pall and Muni Examination Centre",EC-2026-00121,"875, Chatterjee Chowk, Bidhannagar 140105",college,8
+122,2,"Gala, Kohli and Varty Examination Centre",EC-2026-00122,"H.No. 86, Kata Chowk, Udaipur-660937",school,4
+123,7,Agrawal-Kala Examination Centre,EC-2026-00123,"19/182, Nanda Path, Berhampore-478596",government_office,7
+124,19,"Comar, Pall and Pandey Examination Centre",EC-2026-00124,"49/912, Dalal Path, Farrukhabad-252866",private_institute,6
+125,20,"Rajagopal, Sampath and Grewal Examination Centre",EC-2026-00125,"27/42, Murty Street, Udupi-507236",school,8
+126,20,"Talwar, Rege and Swamy Examination Centre",EC-2026-00126,"21, Balasubramanian, Jalna-438427",school,3
+127,11,Vaidya-Chowdhury Examination Centre,EC-2026-00127,"58/07, Kamdar Circle, Kota 407451",government_office,6
+128,37,Khalsa and Sons Examination Centre,EC-2026-00128,"923, Bhargava Ganj, Katihar 982544",government_office,7
+129,8,"Chandran, Deshmukh and Sabharwal Examination Centre",EC-2026-00129,"22/325, Ramaswamy Ganj, Ajmer 667116",college,5
+130,28,Pillay-Sha Examination Centre,EC-2026-00130,"01/75, Warrior Zila, Bellary-374545",school,4
+131,35,Sundaram LLC Examination Centre,EC-2026-00131,"H.No. 701, Sastry Street, Mumbai 324241",college,5
+132,37,Butala-Prabhu Examination Centre,EC-2026-00132,"43, Chand Marg, Mumbai-712938",school,5
+133,19,Anand Ltd Examination Centre,EC-2026-00133,"27, Karnik Zila, Hubli–Dharwad 155426",school,7
+134,33,Dhar Inc Examination Centre,EC-2026-00134,"53, Sabharwal Street, Bellary 121965",private_institute,3
+135,35,Dey-Kota Examination Centre,EC-2026-00135,"899, Mane, Barasat 898364",school,8
+136,23,Talwar Group Examination Centre,EC-2026-00136,"91, Arora Circle, Ratlam 696582",college,3
+137,36,Badal PLC Examination Centre,EC-2026-00137,"H.No. 30, Rao Nagar, Orai 661889",college,7
+138,13,Mukherjee Inc Examination Centre,EC-2026-00138,"56/91, Sarkar Road, Howrah-161799",private_institute,5
+139,31,"Gill, Dar and Arora Examination Centre",EC-2026-00139,"758, Lad Circle, Serampore-410564",college,7
+140,29,Bose-Taneja Examination Centre,EC-2026-00140,"H.No. 792, Dugar Path, Kota-380003",government_office,8
+141,29,Rajagopal-Doctor Examination Centre,EC-2026-00141,"63/53, Nagarajan Marg, Solapur-180238",private_institute,8
+142,33,Biswas-Shroff Examination Centre,EC-2026-00142,"H.No. 18, Anand Chowk, Kollam 949375",college,3
+143,36,Hayre-Korpal Examination Centre,EC-2026-00143,"03, Pal Circle, Thanjavur-641383",college,6
+144,12,Dhar Ltd Examination Centre,EC-2026-00144,"H.No. 386, Shanker Path, Amaravati 826199",government_office,6
+145,15,"De, Khalsa and Manne Examination Centre",EC-2026-00145,"55, Magar Chowk, Aurangabad 291212",private_institute,6
+146,17,Ray-Dara Examination Centre,EC-2026-00146,"47, Dar Road, Sangli-Miraj & Kupwad 903521",government_office,8
+147,13,Randhawa-Varghese Examination Centre,EC-2026-00147,"H.No. 20, Sethi Marg, Bareilly 121003",private_institute,4
+148,24,Pradhan-Chad Examination Centre,EC-2026-00148,"H.No. 137, Chanda Street, Bhilai 702966",private_institute,4
+149,5,Sandhu-Gera Examination Centre,EC-2026-00149,"447, Banerjee Street, Sagar 687014",school,6
+150,17,Iyengar-Vora Examination Centre,EC-2026-00150,"57, Sundaram Circle, Buxar-642059",college,4
+151,2,Bhardwaj-Sodhi Examination Centre,EC-2026-00151,"133, Walla Road, Muzaffarnagar 522395",college,7
+152,6,"Parmer, Bala and Pandey Examination Centre",EC-2026-00152,"84, Swaminathan Street, Mysore-393087",school,8
+153,20,"Jaggi, De and Oak Examination Centre",EC-2026-00153,"H.No. 029, Choudhry Street, Srinagar-691545",government_office,3
+154,9,Sarkar Ltd Examination Centre,EC-2026-00154,"895, Gill Ganj, Aizawl-220969",school,7
+155,14,"Nadkarni, Kant and Chawla Examination Centre",EC-2026-00155,"H.No. 13, Nagarajan Path, Hubli–Dharwad-704331",college,7
+156,30,Agarwal Inc Examination Centre,EC-2026-00156,"62/676, Prashad Path, Nangloi Jat-271040",college,8
+157,17,Borah LLC Examination Centre,EC-2026-00157,"181, Subramanian Path, Chinsurah-962015",school,5
+158,31,Rout Ltd Examination Centre,EC-2026-00158,"H.No. 31, Ramaswamy Nagar, Jamnagar 506149",school,6
+159,6,Bal and Sons Examination Centre,EC-2026-00159,"H.No. 714, Sinha Marg, Bilaspur-862565",school,5
+160,35,Lall Group Examination Centre,EC-2026-00160,"490, Chatterjee Street, Hapur-938068",college,3
+161,29,"Soman, Keer and Soni Examination Centre",EC-2026-00161,"08, Varughese, Jamshedpur 223320",school,7
+162,28,"Saran, Jaggi and Divan Examination Centre",EC-2026-00162,"11/686, Nanda Circle, Saharsa 099861",school,5
+163,27,Chaudhry Inc Examination Centre,EC-2026-00163,"56/46, Solanki Chowk, Malegaon 629960",government_office,7
+164,14,Khanna-Bawa Examination Centre,EC-2026-00164,"H.No. 05, Mukhopadhyay Road, Pallavaram-324754",school,8
+165,36,"Chakraborty, Guha and Sathe Examination Centre",EC-2026-00165,"78/508, Bhatti Street, Guna-289023",college,4
+166,4,Bhardwaj and Sons Examination Centre,EC-2026-00166,"H.No. 534, Shetty Path, Amravati 357972",government_office,5
+167,3,Palla-Padmanabhan Examination Centre,EC-2026-00167,"14/060, Kala Street, Kamarhati-468007",private_institute,3
+168,12,"Ghose, Anand and Kapur Examination Centre",EC-2026-00168,"46/657, Kamdar Road, Barasat 910858",college,3
+169,13,"Mandal, Misra and Chokshi Examination Centre",EC-2026-00169,"H.No. 45, Lal Road, Maheshtala-830965",college,7
+170,12,"Bal, Tank and Merchant Examination Centre",EC-2026-00170,"60, Gupta, Korba 584282",private_institute,3
+171,29,Dave-Kuruvilla Examination Centre,EC-2026-00171,"13/534, Narula Marg, Bhilwara-717099",college,8
+172,4,Sodhi and Sons Examination Centre,EC-2026-00172,"46/02, Iyer Street, Alappuzha 252175",private_institute,7
+173,5,Munshi Ltd Examination Centre,EC-2026-00173,"43, Dutt Street, Hubli–Dharwad 966667",private_institute,4
+174,3,Walla and Sons Examination Centre,EC-2026-00174,"H.No. 83, Agrawal Nagar, Kamarhati 421689",college,5
+175,17,Bath LLC Examination Centre,EC-2026-00175,"89/856, Oommen Street, Secunderabad 260332",school,7
+176,27,Thaman and Sons Examination Centre,EC-2026-00176,"06/489, Bava Nagar, Jaipur 167618",school,6
+177,24,"Dua, Jha and Andra Examination Centre",EC-2026-00177,"18/499, Sahota Street, Sasaram 411739",private_institute,4
+178,17,Virk-Jaggi Examination Centre,EC-2026-00178,"H.No. 20, Taneja Circle, Ongole 300119",government_office,3
+179,9,Chana PLC Examination Centre,EC-2026-00179,"H.No. 37, Lalla Road, Dhanbad 204556",private_institute,3
+180,32,Bath Inc Examination Centre,EC-2026-00180,"H.No. 57, Loyal, Serampore-216674",private_institute,7
+181,23,"Sridhar, Sama and Ganesan Examination Centre",EC-2026-00181,"02/169, Sarma Chowk, Phagwara 590277",private_institute,4
+182,15,Sastry-Batra Examination Centre,EC-2026-00182,"50/899, Nigam Ganj, Bhiwani 756289",school,8
+183,35,"Dugar, Tiwari and Singh Examination Centre",EC-2026-00183,"H.No. 753, Mall Path, Guna-866317",school,4
+184,16,"Sem, Chakrabarti and Tara Examination Centre",EC-2026-00184,"H.No. 701, Sachar Marg, Proddatur-199488",school,7
+185,16,"Shan, Om and Patla Examination Centre",EC-2026-00185,"58, Solanki, Bidhannagar 130554",private_institute,5
+186,24,Cherian-Bath Examination Centre,EC-2026-00186,"614, Hayre, Jamshedpur-373516",government_office,4
+187,33,"Dasgupta, Seshadri and Shankar Examination Centre",EC-2026-00187,"H.No. 808, Subramanian Marg, Adoni-216995",school,8
+188,30,Sahota-Kothari Examination Centre,EC-2026-00188,"H.No. 47, Devi Street, Madanapalle 858333",college,7
+189,24,Pai-Deo Examination Centre,EC-2026-00189,"15/879, Sahni, Bhusawal-810620",college,5
+190,27,Loke and Sons Examination Centre,EC-2026-00190,"043, Bali Circle, Bidhannagar 983863",college,8
+191,12,"Mani, Batta and Raj Examination Centre",EC-2026-00191,"58/004, Savant Ganj, Arrah-347212",private_institute,3
+192,16,"Varkey, Dar and Purohit Examination Centre",EC-2026-00192,"H.No. 84, Dyal Street, Kolkata 720259",college,5
+193,22,"Mitra, Swaminathan and Parmar Examination Centre",EC-2026-00193,"32/81, Dutta Circle, Tinsukia 153355",private_institute,4
+194,27,Wali Group Examination Centre,EC-2026-00194,"57/399, Baral Ganj, Eluru 648408",college,3
+195,14,Varkey-Trivedi Examination Centre,EC-2026-00195,"H.No. 435, Butala Circle, Rourkela-133613",government_office,5
+196,17,"Saran, Bora and Dube Examination Centre",EC-2026-00196,"50/110, Krishnamurthy Street, Ramgarh 466766",private_institute,4
+197,39,Dani-Warrior Examination Centre,EC-2026-00197,"90/158, Mann Zila, Medininagar 476607",college,7
+198,21,Deshpande Ltd Examination Centre,EC-2026-00198,"24/508, Dhaliwal Circle, Kalyan-Dombivli-996881",school,8
+199,10,"Padmanabhan, Kakar and Sachar Examination Centre",EC-2026-00199,"394, Contractor Ganj, Tezpur-878141",private_institute,7
+200,36,Sur LLC Examination Centre,EC-2026-00200,"31/491, Nadkarni Ganj, Hospet 949299",school,6

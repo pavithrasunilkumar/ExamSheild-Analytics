@@ -1,0 +1,4 @@
+pwbd_status_id,disability_type,accommodation_required,certificate_reference
+1,Visual Impairment,Extra time + scribe,CERT-VI
+2,Locomotor Disability,Ground floor center,CERT-LD
+3,Hearing Impairment,Written instructions only,CERT-HI
