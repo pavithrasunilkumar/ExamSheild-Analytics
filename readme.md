@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 Overview
+# Overview
 
 **ExamShield Analytics** is an end-to-end data analytics platform that helps examination authorities move from **reactive investigation** (acting only after complaints or media reports) to **proactive, evidence-based risk monitoring** of examination centers, candidates, and operations.
 
@@ -31,7 +31,7 @@ It combines **SQL analytics, statistical hypothesis testing, machine learning, e
 
 ---
 
-## 🎯 The Problem
+# The Problem
 
 Large-scale examinations (NEET, JEE, SSC, State PSCs, banking recruitment, university entrance exams) involve **millions of candidates** and **thousands of centers**. At this scale:
 
@@ -43,7 +43,7 @@ Large-scale examinations (NEET, JEE, SSC, State PSCs, banking recruitment, unive
 
 ---
 
-## 🌍 Why This Matters Right Now
+#  Why This Matters Right Now
 
 This isn't a hypothetical problem invented for a portfolio project — it's actively unfolding.
 
@@ -56,7 +56,7 @@ This isn't a hypothetical problem invented for a portfolio project — it's acti
 
 ---
 
-## 🏗️ Architecture
+# 🏗️ Architecture
 
 ```
 SAP ERP (Master Data)              Other Raw Sources
@@ -86,7 +86,7 @@ Asset Master, Complaints    ──┐    Attendance, Sessions,
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 | Layer | Tools | Purpose |
 |---|---|---|
@@ -100,22 +100,22 @@ Asset Master, Complaints    ──┐    Attendance, Sessions,
 
 ---
 
-## ✨ Key Features
+# ✨ Key Features
 
-- 🔍 **Multi-layer anomaly detection** — Isolation Forest (global outliers), Local Outlier Factor (peer-relative outliers), DBSCAN (coordinated candidate clusters)
-- 📊 **Advanced SQL analytics** — center/state ranking via window functions, multi-step risk CTEs, reusable views, stored procedures for monthly reports
-- 📈 **Rigorous statistics** — Z-score & IQR outlier detection, Chi-square independence tests, ANOVA, confidence intervals (so small centers aren't unfairly flagged from sample-size noise)
-- 🤖 **Composite Integrity Risk Index** — documented, weighted, auditable scoring formula (score anomaly, complaint frequency, attendance anomaly, capacity, infrastructure, historical integrity)
-- 🧠 **Explainable AI** — every flagged center comes with a SHAP-based "top 3 contributing factors" explanation
-- ⚖️ **Fairness audit** — explicit statistical check that risk scores aren't proxying for state, category, or school type
-- 🏢 **Enterprise-style master data modeling** — Center/Invigilator/Asset data structured the way a real SAP-based government IT estate would store it
-- 📉 **Forecasting** — Prophet/ARIMA models for future complaint load, supporting staffing and audit-calendar planning
-- 🗂️ **Center segmentation** — K-Means/Hierarchical clustering into interpretable operational profiles
-- 📄 **Auto-generated audit report** — ranked list of high-priority centers with reasons and recommended actions
+-  **Multi-layer anomaly detection** — Isolation Forest (global outliers), Local Outlier Factor (peer-relative outliers), DBSCAN (coordinated candidate clusters)
+-  **Advanced SQL analytics** — center/state ranking via window functions, multi-step risk CTEs, reusable views, stored procedures for monthly reports
+-  **Rigorous statistics** — Z-score & IQR outlier detection, Chi-square independence tests, ANOVA, confidence intervals (so small centers aren't unfairly flagged from sample-size noise)
+-  **Composite Integrity Risk Index** — documented, weighted, auditable scoring formula (score anomaly, complaint frequency, attendance anomaly, capacity, infrastructure, historical integrity)
+-  **Explainable AI** — every flagged center comes with a SHAP-based "top 3 contributing factors" explanation
+-  **Fairness audit** — explicit statistical check that risk scores aren't proxying for state, category, or school type
+-  **Enterprise-style master data modeling** — Center/Invigilator/Asset data structured the way a real SAP-based government IT estate would store it
+-  **Forecasting** — Prophet/ARIMA models for future complaint load, supporting staffing and audit-calendar planning
+-  **Center segmentation** — K-Means/Hierarchical clustering into interpretable operational profiles
+-  **Auto-generated audit report** — ranked list of high-priority centers with reasons and recommended actions
 
 ---
 
-## 📊 Dashboards
+# Dashboards
 
 | Dashboard | Audience | Contents |
 |---|---|---|
@@ -195,7 +195,7 @@ Access to verified historical investigation outcomes for proper supervised valid
 
 ---
 
-## 🚀 Getting Started
+# Getting Started
 
 ### Prerequisites
 - Python 3.11+
@@ -266,7 +266,7 @@ examshield-analytics/
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## 🤝 Contributing
 
