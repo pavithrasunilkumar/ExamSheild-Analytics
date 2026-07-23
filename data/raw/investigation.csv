@@ -1,0 +1,6 @@
+investigation_id,exam_center_id,lead_agency,start_date,status,arrest_count
+1,10,STF/Cyber Cell,2026-06-30,closed,7
+2,56,STF/Cyber Cell,2026-06-21,escalated,11
+3,61,STF/Cyber Cell,2026-06-22,closed,11
+4,112,STF/Cyber Cell,2026-06-24,ongoing,6
+5,127,STF/Cyber Cell,2026-06-26,escalated,8

@@ -1,0 +1,21 @@
+center_id,final_integrity_risk_score,risk_band,ml_ensemble_confidence,segment_label,top_factor_1,top_factor_2,top_factor_3,is_synthetic_anomalous_center
+85,93.2,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+127,92.9,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+180,91.8,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+56,91.7,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+16,91.4,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+61,91.2,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+10,91.1,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+199,91.1,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+112,90.9,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+100,90.6,Critical,High Confidence,High-Risk Operational Profile,avg_score (+4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),True
+186,27.0,Low,Low Confidence,Resource-Constrained,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+51,25.8,Low,Low Confidence,Resource-Constrained,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+77,25.2,Low,Medium Confidence,High-Performing / Well-Resourced,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+134,25.1,Low,Low Confidence,Resource-Constrained,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+146,25.0,Low,Low Confidence,High-Performing / Well-Resourced,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+172,24.8,Low,Low Confidence,Resource-Constrained,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+148,24.2,Low,Low Confidence,High-Performing / Well-Resourced,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+177,24.2,Low,Low Confidence,High-Performing / Well-Resourced,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+190,23.8,Low,Low Confidence,High-Performing / Well-Resourced,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False
+165,23.5,Low,Low Confidence,High-Performing / Well-Resourced,avg_score (-4.908),internet_reliability_score (+0.000),perimeter_security_rating (+0.000),False

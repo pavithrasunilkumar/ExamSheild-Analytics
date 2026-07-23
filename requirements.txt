@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+shap
+matplotlib
+prophet
+faker
+sqlalchemy
+psycopg2-binary

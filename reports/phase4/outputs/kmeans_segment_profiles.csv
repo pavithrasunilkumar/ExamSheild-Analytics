@@ -1,0 +1,5 @@
+kmeans_segment,avg_score,score_std,avg_response_time_variance,avg_changed_answer_rate,complaint_count,incident_count,cctv_camera_count,biometric_device_count,perimeter_security_rating,internet_reliability_score,n_centers,pct_anomalous
+0,260.5,60.5,16.5,0.3,1.2,0.4,5.4,1.8,4.7,71.6,61,0.0
+1,398.7,96.8,6.3,0.7,7.2,2.8,0.4,0.5,1.5,23.4,10,100.0
+2,260.0,59.6,16.5,0.3,1.3,0.3,5.4,3.7,3.6,73.2,67,0.0
+3,259.4,60.3,16.4,0.3,1.2,0.4,5.1,1.7,2.4,66.8,62,0.0

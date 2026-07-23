@@ -1,0 +1,6 @@
+category_id,category_code,category_name
+1,GEN,General
+2,SC,Scheduled Caste
+3,ST,Scheduled Tribe
+4,OBC,Other Backward Class
+5,EWS,Economically Weaker Section
